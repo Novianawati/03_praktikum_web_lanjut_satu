@@ -1,5 +1,5 @@
 <html>
     <body>
-        <h1>Hello, {{ $name }}</h1>
+        <h1>SELAMAT DATANG DI WEBSITE KAMI</h1>
     </body>
 </html>
